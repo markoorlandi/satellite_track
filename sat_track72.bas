@@ -15,10 +15,10 @@
 150 REM GRAVITY: G IS MILES^3/HR^2
 160 G = 1.240793E+12 : PI = 3.14159265
 320 REM OBSERVER POSITION INITIALIZATIONS
-350 H(1) = 88 :H$(1)='W':U(1)= 42.00:U$(1)='N'
-360 H(2) = 95 :H$(2)='W':U(2)= 30.00:U$(2)='N'
-370 H(3) = 80 :H$(3)='W':U(3)= 26.00:U$(3)='N'
-380 H(4) = 118 :H$(4)='W':U(4)= 34.00:U$(4)='N'
+350 H(1) = 88 :H$(1)='W':U(1)= 42.00:U$(1)='N' : REM northern Illinois, USA, specifically near the Wisconsin border, north of Elgin and west of Antioch
+360 H(2) = 95 :H$(2)='W':U(2)= 30.00:U$(2)='N' : REM  Texas, Northwest of Houston (near the Montgomery/Walker County line)
+370 H(3) = 80 :H$(3)='W':U(3)= 26.00:U$(3)='N' : REM Florida, Atlantic Ocean, specifically off the coast of South Florida, USA, near Jupiter and West Palm Beach
+380 H(4) = 118 :H$(4)='W':U(4)= 34.00:U$(4)='N' : REM Southern California, United States, specifically in the vicinity of Los Angeles. 
 
 400 H9 = 2800 : U9 = 0 : REM GREENWICH INITIAL X & Y
 410 G1 = ATN(U9/H9) : REM INITIAL THETA CALC
