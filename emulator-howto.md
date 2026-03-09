@@ -1,4 +1,4 @@
-Code was Tested and successfully run on pdp11 11 emulator at https://skn.noip.me/pdp11/pdp11.html
+Code was Tested and successfully run on pdp11/70 emulator at https://skn.noip.me/pdp11/pdp11.html
 
 follow these instructions to get BASIC PLUS up and running :
 at >boot prompt type :
