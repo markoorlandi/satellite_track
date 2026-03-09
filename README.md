@@ -17,6 +17,6 @@ Dennis Gallagher
 
 ----
 note :
-latest release has benne tested on pdp 11 9.6 with BASIC PLUS at https://skn.noip.me/pdp11/pdp11.html
+latest release has been tested on pdp 11 9.6 with BASIC PLUS at https://skn.noip.me/pdp11/pdp11.html
 added various fixes for floating point limits and precision boundaries... It works !
 Marcoexo
