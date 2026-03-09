@@ -14,3 +14,9 @@ If anyone want to tinker with the code, please, be my guest.
 If you do, I'd love to hear the results.   Cheers from Christchurch, New Zealand - where I've been living now since 2009.
 Link:  https://www.dropbox.com/.../AHLI9Up0KYnxS3nWo3sH4hE...
 Dennis Gallagher
+
+----
+note :
+latest release has benne tested on pdp 11 9.6 with BASIC PLUS at https://skn.noip.me/pdp11/pdp11.html
+added various fixes for floating point limits and precision boundaries... It works !
+Marcoexo
