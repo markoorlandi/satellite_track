@@ -4,7 +4,7 @@ follow these instructions to get BASIC PLUS up and running :
 at >boot prompt type :
 BOOT RP2
 strictly enter THIS DATE at request :
-1-JAN-90 (I could not make it accept any other date don't ask why :-\)
+1-JAN-90 (this emulator only accepts dates from 01-JAN-86 to 31-DEC-99 )
 time 12:00
 At User prompt enter exactly 1,2
 User 1,2
